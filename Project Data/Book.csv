@@ -1,0 +1,101 @@
+BookID,Name,Genres,Editor,Format,Available,ISBN,DDC,LC,Floor,Author,Publisher,PublishedDate,Edition,InterlibraryLoan,DatePurchased,LendingStatus
+1,East eat,History,Patrick Simpson,Ebook,1,978-1-05-687277-3,598.61,V3165,4,Julie Hall,Mccann LLC,9/18/2023,3th,0,12/5/2022,On Loan
+2,Trouble today senior,Fiction,Gregory Davis,Ebook,1,978-0-7503-2211-9,514.67,M5379,5,April Johnson,"Henry, Luna and Gonzalez",1/11/2017,4th,1,2/24/2024,On Loan
+3,Appear woman entire lot reality,Fiction,Brittany Williams,Ebook,1,978-1-4119-8227-7,161.07,I1138,5,Anna Castillo,May Group,11/29/2019,2th,0,2/10/2022,Reserved
+4,Seven piece move,History,Matthew Lopez,Hardcover,1,978-0-323-37161-2,983.65,Y4574,5,Rodney Richards,Zimmerman-Torres,1/2/2025,4th,1,8/23/2025,Available
+5,Town inside,Mystery,Philip Davis,Ebook,0,978-0-13-159396-1,82.23,L8347,2,Adrian Perkins,Carpenter-Roberts,12/13/2020,2th,1,12/26/2022,Available
+6,Parent yes management,Non-Fiction,Raven Scott,Paperback,1,978-0-11-414695-5,70.76,M8786,4,Amanda Morales,Warren-Blair,1/1/2023,5th,0,12/1/2023,On Loan
+7,Mouth local,Non-Fiction,Kelly Carter,Hardcover,1,978-0-573-09965-6,69.86,K453,2,Melissa Mills,Terry-Mitchell,5/26/2024,3th,0,9/19/2025,On Loan
+8,Year argue international company church,Non-Fiction,Bailey Dunn,Hardcover,1,978-1-988358-65-9,882.3,D4280,3,Kristin Taylor,Horton Inc,10/10/2020,5th,0,9/12/2023,Reserved
+9,Feel meeting member pull,History,Renee Griffin,Hardcover,0,978-0-403-20020-7,413.15,F9513,4,Michelle Smith,Campbell-Wong,2/5/2025,5th,0,4/28/2025,On Loan
+10,Claim before hard attorney,Fiction,Robert Carr,Paperback,1,978-0-220-49762-0,964.72,I627,4,Jennifer Carter,Forbes Inc,5/27/2017,4th,0,6/15/2022,On Loan
+11,Window buy recognize suggest front,History,Lisa Johnson,Paperback,0,978-1-165-33140-6,252.74,D9775,1,Jordan Hall,Williams Ltd,4/14/2019,4th,1,2/3/2024,Reserved
+12,Rise win as,History,Stacey Moreno,Paperback,0,978-1-59105-112-1,608.05,N5664,4,John Rodriguez,Turner Group,8/21/2024,4th,1,7/1/2022,On Loan
+13,Whose stop traditional,Fantasy,Jennifer Morgan,Hardcover,1,978-0-19-997613-3,634.1,X5140,3,Eric Walker,Weber and Sons,10/11/2017,5th,0,11/15/2024,Reserved
+14,More well professional,Fiction,Stacy Manning,Hardcover,1,978-1-79523-961-5,429.84,N9933,4,Richard Wilson,Ramirez-Taylor,5/26/2023,3th,0,2/20/2025,Available
+15,Executive interest collection always,Fantasy,Dennis Gray,Ebook,0,978-0-949262-71-4,597.72,Q1895,2,Jimmy Parker,Santos-Williams,4/22/2025,3th,1,7/8/2021,On Loan
+16,Like address machine,Science,Emily Munoz,Ebook,0,978-1-01-683594-7,535.4,M9447,4,Jennifer Robinson,"Martinez, Holloway and Harvey",10/28/2019,2th,1,10/16/2022,Available
+17,Along top often put local,Fiction,Amy Gilmore,Paperback,0,978-0-596-06637-6,957.33,G4174,2,Cheryl Adams,Schneider LLC,7/3/2017,1th,0,10/12/2024,On Loan
+18,Ball compare conference treatment miss,Fiction,Paul Davis,Hardcover,0,978-0-09-030021-1,209.85,B7145,5,Cody Stevens,"Arnold, Berg and Patton",3/14/2019,3th,0,6/1/2021,On Loan
+19,Back red,Fiction,Katelyn Walsh,Ebook,0,978-1-62041-600-6,733.4,A8519,5,Scott Marquez,"Velazquez, Perry and Hall",6/30/2022,4th,1,12/18/2024,On Loan
+20,Behavior player establish it finish,Non-Fiction,Randy Mcguire,Paperback,1,978-0-85114-317-0,244.33,Z8822,1,Jennifer Payne,"Garza, Johnson and Clark",3/7/2019,2th,1,12/14/2021,Available
+21,Study improve tree about,Non-Fiction,Kevin Beasley,Paperback,1,978-0-210-26975-6,405.16,V3229,4,Jessica Herrera,Levy-Gibson,5/9/2024,4th,1,7/4/2025,On Loan
+22,Life above,Fantasy,Ryan Montoya,Ebook,1,978-0-942489-26-2,687.82,L7067,5,Darryl Stevens,Cole and Sons,11/1/2018,5th,1,6/20/2021,Reserved
+23,Address design body,Fantasy,Jennifer Morgan,Paperback,1,978-0-226-20762-9,307.58,C5410,5,Amy Weber,"Griffith, Williams and Scott",8/24/2017,5th,0,11/17/2020,Available
+24,Focus world say,Fiction,Kristen Anderson,Hardcover,0,978-0-87228-476-0,323.96,T5144,1,Rebecca Kline,Martinez-Smith,2/11/2017,4th,1,10/17/2024,Reserved
+25,Activity network let,Fantasy,Eddie Gray,Paperback,1,978-0-686-82614-9,958.09,V2042,1,Jeremiah Nelson,Yoder-Sims,9/16/2019,3th,1,9/22/2024,Reserved
+26,It piece computer technology,Non-Fiction,Kimberly House,Hardcover,1,978-0-7782-6770-6,9.58,X4921,4,Joshua Ross,Rodgers-Barton,12/13/2016,1th,1,12/26/2020,On Loan
+27,Experience weight make generation,History,Robert Lopez,Hardcover,1,978-0-86954-306-1,636.72,Q5068,2,Kristie White,"Flowers, Hansen and Hart",5/1/2023,4th,0,10/31/2021,On Loan
+28,Upon state art,History,Alexander Snyder,Ebook,1,978-1-239-73166-8,102.09,V6692,4,Gerald Andrade,Moore Group,8/15/2025,3th,1,8/19/2024,Available
+29,Provide use after hot time,History,Andrea Wilson,Ebook,1,978-1-60726-349-4,550.27,K6593,2,Ana Reeves,Beasley Ltd,9/20/2024,2th,0,7/28/2025,Available
+30,Decade ahead treat than,Fantasy,Jennifer Johnson,Ebook,1,978-0-17-924014-8,518.33,W4845,1,Terry Callahan,Washington-Brown,5/28/2018,4th,0,9/30/2021,Reserved
+31,Sell leg truth into spend,Science,Andrew Williams,Paperback,1,978-0-217-39261-7,135.44,R2086,3,Jordan Hall,"Vega, Cunningham and Jones",3/12/2020,2th,0,4/16/2021,On Loan
+32,Reflect move size speak,Non-Fiction,Jeffrey Mccullough MD,Ebook,1,978-0-237-16931-2,902.08,G6889,4,Jesse Macias,Brown-Middleton,12/9/2017,3th,0,11/29/2020,Reserved
+33,Scientist professor from capital,Science,Darius Marshall,Ebook,1,978-0-349-12163-5,900.31,V6212,3,Anna Roberson,"Cameron, Sanders and Cooper",4/7/2018,3th,0,10/13/2023,On Loan
+34,Movie bit,Fantasy,Edward Tucker,Paperback,0,978-0-625-62399-0,378.36,V2852,2,Amanda Cochran,Thomas-Rice,9/5/2025,3th,0,7/6/2021,Reserved
+35,Series activity better,Mystery,Janet Campbell,Ebook,1,978-1-351-13939-7,161.56,T9325,4,Kristina Smith,Hernandez Inc,3/27/2020,3th,1,4/13/2023,On Loan
+36,Report hot personal country,Fiction,Ricky Martin,Paperback,1,978-0-928053-41-8,853.69,J6654,3,Rebecca Spencer,"Smith, Carter and Robinson",5/12/2016,5th,1,2/24/2024,Available
+37,Prove campaign point win sport,Non-Fiction,Mark Barrett,Paperback,0,978-1-328-20684-8,720.38,R7,3,Katrina Mitchell,Gonzalez-Rodgers,4/3/2025,3th,1,3/29/2021,Available
+38,Party fine reach civil more,History,Stephen Kelley,Hardcover,0,978-0-8247-5088-6,626.83,J4701,4,Kimberly Walsh,Ferguson Inc,8/9/2018,5th,1,4/27/2025,On Loan
+39,Art clearly only seven,Science,Ashley Rocha,Hardcover,1,978-1-09-064601-9,541.01,G7044,3,Michael Mosley,"Garcia, Stanley and Oconnell",6/19/2022,1th,0,5/6/2021,Reserved
+40,Together player him sport,Mystery,Robert Carpenter,Ebook,1,978-0-18-992993-4,683.7,Z9503,4,Patrick Chung,Rodriguez-Merritt,7/27/2016,5th,1,1/7/2025,Available
+41,Middle as,Mystery,Rickey Smith,Paperback,0,978-0-85944-053-0,306.84,T5280,3,Shannon Simpson,Curry-Russell,9/5/2020,2th,1,4/29/2025,On Loan
+42,Rise benefit cut his,Non-Fiction,Lonnie Hall,Hardcover,1,978-1-57157-546-3,106.17,O7239,1,Kim James,"Tucker, Rhodes and Stout",7/27/2021,1th,1,7/12/2021,On Loan
+43,Same official soon individual,Non-Fiction,Jamie Hartman,Hardcover,0,978-0-85892-134-4,270.14,O3502,4,Katrina George,Heath-Huff,10/9/2018,2th,1,2/2/2024,Reserved
+44,Grow wide just task,Mystery,Rose Bradley,Hardcover,0,978-0-324-97896-4,911.13,Q7753,1,Eric Stuart,Chavez-Wolfe,11/23/2020,4th,1,12/7/2021,On Loan
+45,Machine capital nor,Fiction,Courtney Harper,Hardcover,1,978-0-7709-3864-2,760.7,Z2781,5,Joseph Holloway,Strong-Rowe,11/9/2024,4th,1,6/18/2023,Available
+46,Modern consumer buy,Fiction,Laura Trujillo,Ebook,1,978-1-70086-473-4,159.34,V1390,1,Kristy Carpenter,Holt Group,1/19/2017,5th,1,1/1/2021,Available
+47,Some value involve degree,Science,Elizabeth Foster,Hardcover,1,978-0-934471-44-2,288.77,J8446,3,Anthony Hicks,"Simmons, Guzman and Boone",8/25/2022,2th,0,8/18/2024,Reserved
+48,Again another later personal include,Fiction,Angel Martin,Ebook,0,978-1-176-46008-9,215.91,V5492,2,Lisa Smith,Sanchez-Smith,1/18/2019,4th,0,12/31/2022,Reserved
+49,Try glass,Mystery,Kim Jackson,Paperback,0,978-1-09-315651-5,351.26,C3849,1,Eric Brown,Tanner Group,1/20/2020,4th,0,1/12/2021,Available
+50,Maybe billion trial turn hair,Mystery,Elizabeth Roberts,Ebook,0,978-1-180-05357-4,703.81,V5086,1,Mary Clark,"Reyes, Bishop and Williams",2/8/2018,4th,0,11/4/2024,Reserved
+51,Report of one speak,Fantasy,Theodore Jackson,Hardcover,0,978-0-8175-8430-6,873.33,H3263,1,Mandy Eaton,Salazar-French,8/22/2019,1th,1,4/17/2022,Available
+52,Leg just cultural through,Mystery,Janice Williams,Paperback,0,978-1-5436-5127-0,517.62,E401,2,Allison Jones,Ray LLC,9/9/2025,1th,1,7/28/2024,On Loan
+53,Up approach candidate,Fiction,Jennifer Garcia,Paperback,1,978-1-08-209984-7,257.06,B4012,2,John Powers,"Hawkins, Fernandez and Olson",6/9/2016,3th,0,12/23/2024,Reserved
+54,Night set product,History,Mark Maxwell,Ebook,1,978-1-69333-788-8,94.81,P1194,1,Jeremiah Gilmore,Graham and Sons,10/23/2022,2th,0,5/11/2021,Available
+55,Design like bad,Science,April Perry,Paperback,1,978-1-70925-811-4,433.35,O6791,5,Brian Jones,"Thomas, Hernandez and Spence",11/9/2016,4th,0,12/1/2023,Reserved
+56,Believe free begin how,Fantasy,Tracy Nelson,Ebook,0,978-0-86029-069-8,45,U9432,2,Dr. Mark Ramos,Brown Inc,2/22/2022,2th,1,3/24/2021,On Loan
+57,Dinner buy exactly director,Fiction,Laura Allen,Paperback,0,978-1-78857-037-4,341.98,G6292,2,Samantha Aguilar,Carpenter Ltd,12/21/2023,3th,1,6/8/2021,Available
+58,Body series investment pass cell,Science,Danny Patterson,Ebook,1,978-0-421-29573-5,133.81,P6548,2,Melissa Kane,Weber Ltd,4/12/2021,5th,0,3/29/2022,Available
+59,Gun fly challenge century,Fiction,Andrew Thompson,Hardcover,1,978-0-290-86752-1,268.2,H2418,4,John Gomez,Rojas Group,6/24/2021,3th,1,12/22/2022,Available
+60,Make up three,Fantasy,Christina Reyes,Ebook,1,978-1-244-80126-4,759.56,U91,1,Victoria Taylor,"Howell, Lopez and Miller",8/22/2018,4th,0,3/8/2023,On Loan
+61,Nation letter cut teacher successful,Mystery,Jennifer Buck,Ebook,1,978-0-14-233676-2,564.9,Y1747,5,Katelyn Spencer,"Cooper, Rosario and Bell",10/2/2024,5th,1,11/14/2022,Available
+62,Minute agency,History,Kristen Carlson,Hardcover,0,978-1-09-806258-3,437.71,Y6966,2,Troy Johnston,"Gardner, Serrano and Turner",12/20/2015,5th,1,10/5/2021,Reserved
+63,Spend financial example,Fantasy,Donald Mills,Ebook,1,978-1-945151-81-1,9.14,H2882,4,Randall Owens,Mcgee Ltd,12/18/2022,3th,1,1/2/2023,Available
+64,Beat yes,Mystery,Jennifer Wolfe,Ebook,0,978-1-4451-8143-1,77.88,Z8487,3,Steven Ramos,Williams-Flores,4/26/2025,4th,0,8/16/2025,On Loan
+65,Fear student he,Fantasy,James Summers,Paperback,1,978-0-429-39421-8,925.19,O823,3,Robert Brown,"Ryan, Schultz and Butler",2/7/2025,5th,1,4/6/2025,Reserved
+66,Break its may low serious,Non-Fiction,David Wallace,Ebook,0,978-0-559-63872-5,558.04,R4083,2,Robert Carroll,"Martin, White and Fox",10/22/2023,3th,1,2/24/2021,On Loan
+67,Family or director,History,Gary Shelton,Paperback,0,978-0-9685789-0-2,854.47,D7479,5,Cindy Moore,Jones-Mcmahon,11/29/2022,3th,1,6/6/2022,Reserved
+68,Product young open account,Fiction,Cheryl Evans,Hardcover,1,978-0-225-53644-7,596.7,E7613,5,Nathan Daniels,"Brown, Price and Decker",12/30/2016,4th,1,9/8/2023,Reserved
+69,Method thought network throughout interview,Fiction,Angie Preston,Paperback,1,978-1-4560-6630-7,151.55,V8703,1,Damon Horne,Mercado and Sons,3/29/2023,3th,0,2/21/2025,On Loan
+70,Executive soldier common knowledge,History,Cassandra Davis,Paperback,0,978-1-4301-4545-5,130.05,R9756,2,Terri Davis,West Group,9/9/2018,3th,0,3/1/2025,On Loan
+71,Deep seem,Non-Fiction,Kyle Graves,Hardcover,1,978-1-348-49240-5,315.46,K7252,3,Jose Lee,"Morris, Lyons and Wallace",12/29/2016,3th,0,6/15/2022,On Loan
+72,Education with might,Mystery,Matthew Arroyo,Paperback,1,978-1-79464-867-8,920.05,T8271,1,Amy Harrison,"Kelly, Rios and Stevens",1/13/2016,2th,1,1/16/2025,On Loan
+73,Poor factor meet,Fiction,Jamie Sanchez,Hardcover,1,978-0-528-03560-9,920.45,N8977,5,Danielle Williams,Meyer-Ellis,6/30/2018,1th,0,9/13/2023,Available
+74,End medical prepare,Non-Fiction,Melinda Gray,Ebook,1,978-0-354-25279-9,215.87,O2608,1,Stephanie Melendez,"Crosby, Watts and Turner",3/4/2020,2th,0,5/28/2021,On Loan
+75,Industry floor current,Fiction,Kristine Sharp,Ebook,1,978-1-06-518109-5,255.85,X7778,3,Mr. Jeff Stevens,"Hernandez, Frey and Rodriguez",10/10/2022,3th,0,11/28/2022,Reserved
+76,Medical Republican it good,Science,Franklin Arias,Paperback,1,978-0-484-71203-3,105.45,O4247,5,Bradley Porter,"Carter, Cardenas and Smith",11/22/2015,1th,0,3/17/2021,Available
+77,Old technology hundred about between,Mystery,Stacy Carson,Ebook,0,978-0-05-497828-9,798.71,Y4051,4,Morgan Skinner,Freeman Ltd,3/29/2017,5th,0,1/2/2021,On Loan
+78,Miss policy,Science,Steve Sanchez,Hardcover,0,978-0-85214-708-5,905.52,U4544,4,Dale Flores,"Russell, Romero and Adams",1/17/2019,2th,0,1/5/2025,Available
+79,Employee huge investment follow,History,Patricia Fisher,Ebook,0,978-1-925084-69-6,997.79,Y8541,2,Rachel Young,Green-Williams,6/16/2019,2th,1,6/19/2023,Reserved
+80,Involve little,Mystery,Margaret Price,Hardcover,1,978-1-71332-208-5,767.19,P3920,1,Lisa Liu,Walker Inc,7/22/2022,2th,1,11/19/2020,Reserved
+81,End task audience,Non-Fiction,Daniel Stanley,Ebook,0,978-0-508-76788-9,947.3,I7207,5,Mike Marshall,Ramirez Group,4/1/2025,4th,0,8/11/2023,Reserved
+82,Edge standard through though,Mystery,Dr. Lori Martinez,Paperback,1,978-0-485-49765-6,885.2,C4682,2,Michael Knight,"Bartlett, Schmidt and Nichols",1/30/2018,3th,0,3/20/2021,Available
+83,Wish claim require wonder first,Mystery,Ryan Maxwell,Ebook,1,978-1-80803-566-1,999.22,H4452,1,Michelle Parker,Hayden-Ho,8/24/2020,5th,0,8/15/2022,Available
+84,Everything sort tree,Non-Fiction,Dustin Gonzalez,Ebook,0,978-0-630-27447-7,902.52,K5239,3,Andrew Curry,Thompson and Sons,4/29/2023,5th,1,6/11/2021,On Loan
+85,Work stock sure benefit,History,Taylor Sweeney,Ebook,1,978-1-4924-0162-9,25.22,R1321,5,Jerry Peterson,Shepard and Sons,8/31/2017,5th,1,4/27/2021,On Loan
+86,Power sit hundred plant,Mystery,John Bell,Hardcover,0,978-0-6489352-1-6,754.42,E2472,1,Laurie Rodriguez,West-Miller,3/5/2021,3th,1,3/8/2024,On Loan
+87,Car indeed religious attention,History,Darius Payne,Hardcover,0,978-1-902870-60-1,801.52,H6276,5,Nicole Zamora,Davis-Barnes,11/24/2016,1th,1,5/1/2023,Reserved
+88,Professional service discussion else find,History,Autumn Lewis,Paperback,0,978-1-900974-85-1,821.85,W2504,1,Kurt Fox,Ortiz-Noble,2/7/2018,2th,0,3/29/2022,On Loan
+89,Church century final professor,History,Darryl Day,Hardcover,0,978-1-911144-38-0,884.94,W3506,3,Robert Hernandez,"Ross, Jones and Lowe",11/27/2020,3th,1,7/4/2021,Available
+90,Read safe raise,Fiction,Wendy Davis MD,Ebook,0,978-1-74334-814-7,830.31,C6798,5,Ashley Esparza,Mullins Ltd,11/1/2022,2th,1,4/6/2021,On Loan
+91,Thing put professional watch,Fantasy,Todd Liu,Ebook,0,978-1-306-90101-7,273.2,N5422,4,Ashley Simon,Rodriguez-Thompson,6/23/2022,3th,0,3/10/2024,Reserved
+92,House large authority suddenly least,History,Harold Gonzalez,Hardcover,1,978-1-238-71872-1,806.89,R7634,3,Dr. Paula Campbell,Harmon-Orozco,5/2/2023,2th,0,9/8/2022,On Loan
+93,Because success far traditional,Non-Fiction,Mackenzie Parker,Ebook,1,978-0-290-24618-0,110.48,N1021,1,Jeremy Nicholson,Aguilar PLC,2/20/2018,3th,0,5/15/2022,Reserved
+94,Mouth view threat,Fantasy,Matthew Duarte,Paperback,0,978-1-280-76544-5,893.04,G6884,5,Stacey Vaughn,Davis-Brennan,2/12/2021,1th,1,8/24/2022,Reserved
+95,Nothing party policy generation until,History,Ryan Gaines,Paperback,1,978-0-7841-2286-0,879.6,M9570,3,Karen Weber,Stanton-Evans,7/13/2022,5th,0,3/27/2025,Reserved
+96,Pm financial nature including,Non-Fiction,Kristine Moran,Hardcover,1,978-0-640-24440-8,227.25,W321,1,Holly Ramos,Curtis-Smith,9/19/2017,2th,0,3/27/2025,On Loan
+97,Possible create,Non-Fiction,Edward Thomas,Hardcover,1,978-1-315-56699-3,836.58,Y9433,4,Todd White,Meyer and Sons,7/1/2022,3th,1,6/9/2023,Available
+98,Small as thank fine response,Science,Brian Mills,Paperback,0,978-1-5257-4741-0,358.39,M7815,4,Pamela Smith,Allen-Gregory,9/21/2018,1th,0,6/17/2021,On Loan
+99,Next mouth law,Science,Sandra Villanueva,Paperback,1,978-1-937478-66-7,840.29,A5764,1,Mary Jimenez,Morris LLC,9/17/2025,1th,0,10/20/2025,Reserved
+100,Other old have room catch,Mystery,Kristen Ramirez,Hardcover,1,978-1-4301-1197-9,228.03,J6390,4,Glenn Hernandez,Rowe Inc,3/25/2025,5th,0,7/19/2025,On Loan
